@@ -15,3 +15,6 @@ VCF was created from masked\_sapro\_merged\_072516\_withRef.fasta using snp-site
 
 ###annotations
 Contains .gff files for each de novo assembly created with Prokka v 1.11
+
+###reference
+Contains ATCC15305 reference genome
