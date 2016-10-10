@@ -1,0 +1,58 @@
+SSMast	SSMast.ctg.fa	bovine	mastitis	USA:Wisconsin	2016
+31	31.ctg.fa	bovine	mastitis	USA:Wisconsin	2007
+13	13.ctg.fa	human	UTI	USA:Wisconsin	2014
+14	14.ctg.fa	human	UTI	USA:Wisconsin	2014
+15	15.ctg.fa	human	UTI	USA:Wisconsin	2014
+16	16.ctg.fa	human	UTI	USA:Wisconsin	2014
+18	18.ctg.fa	human	UTI	USA:Wisconsin	2014
+19	19.ctg.fa	human	UTI	USA:wisconsin	2014
+41	41.ctg.fa	human	UTI	Australia	2014
+42	42.ctg.fa	human	UTI	Australia	2014
+43	43.ctg.fa	pig	vaginal	USA:Iowa	2014
+X4035	X4035.ctg.fa	human	UTI	USA:Illinois	2014
+KB622	KB622.ctg.fa	canine	pyoderma	Canada	2014
+M2285	M2285.ctg.fa	human	UTI	USA:Illinois	2014
+SSC01	SSC01.ctg.fa	human	UTI	USA:Wisconsin	2016
+SSC02	SSC02.ctg.fa	human	UTI	USA:Wisconsin	2016
+SSC03	SSC03.ctg.fa	human	UTI	USA:Wisconsin	2016
+SSC04	SSC04.ctg.fa	human	UTI	USA:Wisconsin	2016
+SSC05	SSC05.ctg.fa	human	UTI	USA:Wisconsin	2016
+Ssapro-063	Ssapro-063.fasta	human	UTI	Japan	2015
+Ssapro-055	Ssapro-055.fasta	human	UTI	Japan	2015
+ATCC15305	StaphSaprophyticusATCC15305.fasta	human	UTI	UK	1947
+129	SRR3057117.ctg.fa	human	UTI	USA:Massachusetts	2015
+MF4371	MF4371.fasta	environment	Salmon processing	Norway	2011	
+MF6029	MF6029.fasta	environment	meat processing	Norway	1990
+168	Staphylococcus_saprophyticus_FDAARGOS_168.fasta	human	vaginitis	USA:DC	2014
+137	Staphylococcus_saprophyticus_FDAARGOS_137.fasta	human	UTI	USA:DC	2014
+G764	G764.fasta	?	?	France	?
+758	Staphylococcus_saprophyticus_758_SSAP.fasta	human	UTI	USA:Washington	?
+KACC16562	KACC16562.fasta	rockfish	skin	South Korea	2011
+SU8	JXBG01.fasta	environment	river	Malaysia	2012
+NCTC7540	NCTC7540.fasta	environment	pressed beef	UK	1948
+NCTC7666	NCTC7666.fasta	environment	ice cream	UK	1948
+NCTC7687	NCTC7687.fasta	environment	ice cream	UK	1948
+NCTC7692	NCTC7692.fasta	environment	ice cream	UK	1948
+JB027	GCA_001747245.1_ASM174724v1_genomic.fna	human	hand	USA	2015
+725A_RS6	GCA_001747665.1_ASM174766v1_genomic.fna	environment	cheese rind	USA:Vermont	2015
+BC4	GCA_001747655.1_ASM174765v1_genomic.fna	environment	cheese rind	USA:Vermont	2015
+CE6	GCA_001747625.1_ASM174762v1_genomic.fna	environment	salami	USA	2015
+429A	GCA_001747585.1_ASM174758v1_genomic.fna	environment	cheese rind	Switzerland	2015
+396A	GCA_001747975.1_ASM174797v1_genomic.fna	environment	cheese rind	Sweden	2015
+3751	GCA_001747545.1_ASM174754v1_genomic.fna	human	UTI	USA:Massachusetts	2010
+3201	GCA_001747465.1_ASM174746v1_genomic.fna	human	UTI	USA:Massachusetts	2010
+1146	GCA_001747575.1_ASM174757v1_genomic.fna	human	UTI	USA:Massachusetts	2010
+9777	GCA_001747485.1_ASM174748v1_genomic.fna	human	UTI	USA:Massachusetts	2010
+AC34	GCA_001747475.1_ASM174747v1_genomic.fna	human	toe	USA:Massachusetts	2015
+JBCB14	GCA_001747555.1_ASM174755v1_genomic.fna	bovine	nose	USA	2015
+9556	GCA_001747165.1_ASM174716v1_genomic.fna	human	UTI	USA:Massachusetts	2010
+B2	GCA_001747235.1_ASM174723v1_genomic.fna	human	UTI	USA:Massachusetts	2010
+2262	GCA_001747325.1_ASM174732v1_genomic.fna	human	UTI	USA:Massachusetts	2010
+1815	GCA_001747225.1_ASM174722v1_genomic.fna	human	UTI	USA:Massachusetts	2010
+9325	GCA_001747315.1_ASM174731v1_genomic.fna	human	UTI	USA:Massachusetts	2010
+BWH3	GCA_001747155.1_ASM174715v1_genomic.fna	human	UTI	USA:Massachusetts	2010
+889	GCA_001747145.1_ASM174714v1_genomic.fna	human	UTI	USA:Massachusetts	2010
+937	GCA_001747305.1_ASM174730v1_genomic.fna	human	UTI	USA:Massachusetts	2010
+7108	GCA_001747265.1_ASM174726v1_genomic.fna	human	UTI	Germany	2010
+BWH2	GCA_001747175.1_ASM174717v1_genomic.fna	human	UTI	USA:Massachusets	2010
+Troy	REF_Ss_troy_2014-0209.fasta	human	chorioamnionitis	Turkey	1189

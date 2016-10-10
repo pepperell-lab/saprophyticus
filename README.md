@@ -1,6 +1,7 @@
 # saprophyticus
 Data and scripts associated with S. saprophyticus selection project
-
+###strain_description.txt
+Table with metadata for all S. saprophyticus genomes used in these analyses.
 ###alignments
 ####masked\_sapro\_merged\_072516\_withRef.fasta
 An alignment of _S. saprophyticus_ with ATCC15305 as the reference genome. Genomes were
