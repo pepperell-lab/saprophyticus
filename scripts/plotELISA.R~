@@ -1,0 +1,24 @@
+library(ggplot2)
+library(cowplot)
+library(dplyr)
+
+fb <- read.table("elisa/fibronectinBinding.txt", header=T)
+fb$R1abPlated <- as.factor(fb$R1abPlated)
+fbMean <- summarise(group_by(fb, Strain, FibronectinAdded, R1abPlated),
+                    mean=mean(PercentMaxBinding))
+
+
+fb_plot <- ggplot() +
+  geom_point(data=fb, aes(x=FibronectinAdded, y=PercentMaxBinding, shape=R1abPlated, color=Strain)) +
+  geom_line(data=fbMean, aes(x=FibronectinAdded, y=mean, linetype=R1abPlated, color=Strain))
+
+th <- read.table("elisa/thrombospondinBinding.txt", header=T)
+th$R1abPlated <- as.factor(th$R1abPlated)
+thMean <- summarise(group_by(th, Strain, ThrombospondinAdded, R1abPlated),
+                    mean=mean(PercentMaxBinding))
+
+th_plot <- ggplot() +
+  geom_point(data=th, aes(x=ThrombospondinAdded, y=PercentMaxBinding, shape=R1abPlated, color=Strain)) +
+  geom_line(data=thMean, aes(x=ThrombospondinAdded, y=mean, linetype=R1abPlated, color=Strain))
+
+plot_grid(fb_plot, th_plot, labels = c("A", "B"), nrow=2, align=("v"))

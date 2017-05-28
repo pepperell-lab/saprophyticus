@@ -1,0 +1,49 @@
+ATCC 15305	NC_007350.1	Human urine
+SU8	NZ_JXBG00000000.1	River
+KACC 16562	NZ_AHKB00000000.1	Rockfish
+NCTC 7692	ftp://ftp.sanger.ac.uk/pub/project/pathogens/NCTC3000/NCTC7692.gff	Ice cream
+NCTC 7666	ftp://ftp.sanger.ac.uk/pub/project/pathogens/NCTC3000/NCTC7666.gff	Ice cream
+NCTC 7687	ftp://ftp.sanger.ac.uk/pub/project/pathogens/NCTC3000/NCTC7687.gff	Ice cream
+NCTC 7540	ftp://ftp.sanger.ac.uk/pub/project/pathogens/NCTC3000/NCTC7540.gff	Pressed Meat
+137	NZ_CP014057.1	Human urine
+168	NZ_CP014113.1	Human urine
+758	NZ_JUUE00000000.1	Human urine
+129	SRR3057117	Human urine
+13	SRR4938476	Human urine
+14	SRR4938475	Human urine
+15	SRR4938469	Human urine
+16	SRR4938477	Human urine
+18	SRR4938478	Human urine
+19	SRR4938472	Human urine
+41	SRR4938467	Human urine
+42	SRR4938473	Human urine
+55	GCA_001937035	Human urine
+63	GCA_001937025	Human urine
+M	SRR4938468	Human urine
+X	SRR4938471	Human urine
+K	SRR4938470	Canine dermatitis
+31	SRR4938474	Bovine mastitis
+JB027	GCA_001747245	Human hand
+725A_RS6	GCA_001747665	Cheese rind
+BC4	GCA_001747655	Cheese rind
+CE6	GCA_001747625	Salami
+429A	GCA_001747585	Cheese rind
+396A	GCA_001747975	Cheese rind
+3751	GCA_001747545	Human urine
+3201	GCA_001747465	Human urine
+1146	GCA_001747575	Human urine
+9777	GCA_001747485	Human urine
+AC34	GCA_001747475	Human toe
+JBCB14	GCA_001747555	Bovine nasal
+9556	GCA_001747165	Human urine
+B2	GCA_001747235	Human urine
+2262	GCA_001747325	Human urine
+1815	GCA_001747225	Human urine
+9325	GCA_001747315	Human urine
+BWH3	GCA_001747155	Human urine
+889	GCA_001747145	Human urine
+937	GCA_001747305	Human urine
+7108	GCA_001747265	Human urine
+BWH2	GCA_001747175	Human urine
+735A	GCA_001747645	Cheese rind
+Troy	PRJNA352376	Human chorioamnionitis (ancient sample)
