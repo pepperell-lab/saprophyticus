@@ -47,6 +47,9 @@ Manuscript figures.
 ### reference
 Contains ATCC15305 reference genome
 
+### recombination
+Contains gubbins results (.gff of recombinant fragments, recombination filtered polymorphisms, and tree based on recombination free alignment)
+
 ### scripts
 R scripts to plot data.
 
