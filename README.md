@@ -1,11 +1,14 @@
 # saprophyticus
-Data and scripts associated with 'Adaptation of Staphylococcus saprophyticus at the host-pathogen interface'.
+Data and scripts associated with 'Adaptation in a fibronectin binding autolysin of _Staphylococcus saprophyticus_'.
 
 #### accessions.txt
 Accession numbers for sequence data used in this study.
 
 #### strain_description.txt
-Table with metadata for all S. saprophyticus genomes used in these analyses.
+Table with metadata for all _S. saprophyticus_ genomes used in these analyses.
+
+#### quast_report.txt
+Assembly statistics output by QUAST
 
 ### alignments
 #### masked\_sapro\_merged\_072516\_withRef.fasta
@@ -55,6 +58,12 @@ Contains gubbins results (.gff of recombinant fragments, recombination filtered 
 
 ### scripts
 R scripts to plot data.
+
+### simulations
+Parameters and diversity measures from SimBac simulations of internal and external recombination rates on Tajima's D.
+
+#### parameters.txt
+#### selectionStats.txt
 
 ### trees
 #### RAxML\_bipartitionsBranchLabels.sapro\_101216\_combine
