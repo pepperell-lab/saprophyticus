@@ -44,6 +44,9 @@ Data from ELISA measuring Aas peptide to fibronectin and thrombospondin.
 ### figures
 Manuscript figures.
 
+### gubbins
+Recombinant regions (.gff format) predicted by Gubbins v 2.1.0 and maximum likelihood tree estimated from recombination free alignment.
+
 ### reference
 Contains ATCC15305 reference genome
 
