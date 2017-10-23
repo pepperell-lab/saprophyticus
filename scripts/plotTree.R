@@ -18,3 +18,13 @@ tree_plot <- tree_plot %<+% data + geom_tippoint(aes(color=V4)) +
 #  geom_hilight(node=67, fill="steelblue", alpha=.2)
   geom_treescale(fontsize=3, offset=0.1) 
 tree_plot
+
+# plot recombination free tree
+
+noLGT_tree <- read.tree("recombination/masked_sapro_merged_withRef_101216.final_tree.tre")
+noLGT_tree$tip.label<-data[[1]][match(tree$tip.label, data[[2]])]
+noLGT_midpoint_rooted <- midpoint(noLGT_tree) 
+noLGT_tree_plot <- ggtree(midpoint_rooted) + geom_tiplab(size=2)
+noLGT_tree_plot <- noLGT_tree_plot %<+% data + geom_tippoint(aes(color=V4)) +
+  theme(legend.position="right", legend.title=element_blank()) +
+  geom_treescale(fontsize=2, offset=0.1) 
