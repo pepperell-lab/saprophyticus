@@ -1,41 +1,21 @@
-Experiment	Strain	GlycoproteinAdded	R1abPlated	PercentMaxBinding
-1	derived	0	3	4.6
-2	derived	0.3	3	23.0
-3	derived	1	3	36.1
-4	derived	3	3	50.9
-5	derived	10	3	79.6
-6	derived	0	3	10.0
-7	derived	0.3	3	31.1
-8	derived	1	3	47.3
-9	derived	3	3	56.2
-10	derived	10	3	63.3
-11	derived	0	10	4.6
-12	derived	0.3	10	40.6
-13	derived	1	10	59.6
-14	derived	3	10	74.2
-15	derived	10	10	100.0
-16	derived	0	10	10.0
-17	derived	0.3	10	50.0
-18	derived	1	10	77.4
-19	derived	3	10	91.5
-20	derived	10	10	100.0
-21	ancestral	0	3	4.6
-22	ancestral	0.3	3	19.4
-23	ancestral	1	3	30.9
-24	ancestral	3	3	45.9
-25	ancestral	10	3	75.6
-26	ancestral	0	3	9.9
-27	ancestral	0.3	3	26.3
-28	ancestral	1	3	39.6
-29	ancestral	3	3	47.4
-30	ancestral	10	3	54.3
-31	ancestral	0	10	4.7
-32	ancestral	0.3	10	31.2
-33	ancestral	1	10	47.9
-34	ancestral	3	10	65.1
-35	ancestral	10	10	92.1
-36	ancestral	0	10	9.9
-37	ancestral	0.3	10	42.5
-38	ancestral	1	10	67.1
-39	ancestral	3	10	78.7
-40	ancestral	10	10	90.9
+Experiment	Strain	GlycoproteinAdded	R1abPlated	PercentMaxBinding SD
+1	derived	0	3	10.9	5.8
+2	derived	0.3	3	50.5	8.5
+3	derived	1	3	66.5	6.2
+4	derived	3	3	79.9	2.1
+5	derived	10	3	100	0
+6	ancestral	0	3	11.1	5.8	
+7	ancestral	0.3	3	53.3	11.1
+8	ancestral	1	3	70.2	8.9
+9	ancestral	3	3	84.5	5.0
+10	ancestral	10	3	105.5	4.2
+11	derived	0	10	6.7	2.1
+12	derived	0.3	10	58.4	8.6
+13	derived	1	10	71.6	6.5
+14	derived	3	10	81.9	3.9
+15	derived	10	10	100.0	0.0
+16	ancestral	0	10	6.6	2.0
+17	ancestral	0.3	10	56.8	3.8
+18	ancestral	1	10	70.5	2.3
+19	ancestral	3	10	80.8	5.9
+20	ancestral	10	10	99.5	10.7
