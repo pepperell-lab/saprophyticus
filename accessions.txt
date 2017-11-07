@@ -47,3 +47,10 @@ BWH3	GCA_001747155	Human urine
 BWH2	GCA_001747175	Human urine
 735A	GCA_001747645	Cheese rind
 Troy	PRJNA352376	Human chorioamnionitis (ancient sample)
+43	SRR6265708	pig
+SSC01	SRR6265709	Human urine
+SSC02	SRR6265706	Human urine
+SSC03	SRR6265707	Human urine
+SSC04	SRR6265704	Human urine
+SSC05	SRR6265705	Human urine
+SSMast	SRR6265703	Bovine mastitis
